@@ -13,6 +13,7 @@ project_description
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # project_title
+
 project_description
 
 <!-- ABOUT THE PROJECT -->
@@ -29,15 +30,14 @@ project_description
 <!-- CONTACT -->
 ## Contact
 
-#### Jim Montour
+Jim Montour
 
-Twitter: [@jimmontour](https://twitter.com/jimmontour)
-Email: jimmontour@gmail.com
-LinkedIn: [Jim Montour](https://linkedin.com/jimmontour)
+* Twitter: [@jimmontour](https://twitter.com/jimmontour)
+* Email: jimmontour@gmail.com
+* LinkedIn: [Jim Montour](https://linkedin.com/jimmontour)
 Website: [JimMontour.com](https://jimmontour.com)
 
 Project Link: [https://github.com/jimmontour/repo_name](https://github.com/jimmontour/repo_name)
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
